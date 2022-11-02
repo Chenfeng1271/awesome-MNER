@@ -39,4 +39,4 @@ A collection of resources on multimodal named entity recognition.
 
 ## <span id="head2"> *2. Topic Order* </span>
 * <span id="head-dataset"> **👑 Dataset**  </span>
-* (AAAI 2017) Adaptive Co-attention Network for Named Entity Recognition in Tweets
+* (AAAI 2017) **Adaptive Co-attention Network for Named Entity Recognition in Tweets** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11962)]
