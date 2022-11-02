@@ -3,6 +3,9 @@
 <div align=center>
 
 <p>
+ A collection of resources on multimodal learning research.
+ 
+</div>
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
