@@ -2,10 +2,10 @@
 
 <div align=center>
 
-<p>
- A collection of resources on multimodal learning research.
+A collection of resources on multimodal learning research.
  
 </div>
+
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
@@ -36,3 +36,5 @@
 * 🚀: State-of-the-Art
 * 👑: Novel dataset/model
 * 📚：Downstream Tasks 
+
+## <span id="head2"> *2. Topic Order* </span>
