@@ -39,8 +39,9 @@ A collection of resources on multimodal named entity recognition.
 
 ## <span id="head2"> *2. Topic Order* </span>
 * <span id="head-dataset"> **👑 Dataset**  </span>
-* (AAAI 2017) **Adaptive Co-attention Network for Named Entity Recognition in Tweets** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11962)]
-* (ACL 2018) **Visual Attention Model for Name Tagging in Multimodal Social Media** [[paper](https://aclanthology.org/P18-1185.pdf)]
+ * (AAAI 2017) **Adaptive Co-attention Network for Named Entity Recognition in Tweets** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11962)]
+ * (ACL 2018) **Visual Attention Model for Name Tagging in Multimodal Social Media** [[paper](https://aclanthology.org/P18-1185.pdf)]
 
 ## <span id="head3"> *3. Chronological Order* </span>
-* (ACL 2020) **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer** [[paper](https://aclanthology.org/2020.acl-main.306.pdf)]
+* <span id="head-2022"> **2022**  </span>
+ * (ACL 2020) **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer** [[paper](https://aclanthology.org/2020.acl-main.306.pdf)]
