@@ -2,7 +2,7 @@
 
 <div align=center>
 
-A collection of resources on multimodal learning research.
+A collection of resources on multimodal named entity recognition.
  
 </div>
 
