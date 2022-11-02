@@ -43,3 +43,4 @@ A collection of resources on multimodal named entity recognition.
 * (ACL 2018) **Visual Attention Model for Name Tagging in Multimodal Social Media** [[paper](https://aclanthology.org/P18-1185.pdf)]
 
 ## <span id="head3"> *3. Chronological Order* </span>
+* (ACL 2020) **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer** [[paper](https://aclanthology.org/2020.acl-main.306.pdf)]
