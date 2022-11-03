@@ -11,6 +11,7 @@ A collection of resources on multimodal named entity recognition.
 * - [ ] [2. Topic Order](#head2)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [👑 Dataset](#head-dataset)
+  * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [2020](#head-2020)
@@ -55,20 +56,26 @@ A collection of resources on multimodal named entity recognition.
 * <span id="head-2022"> **2022**  </span>
 
     * (CVPR 2022) **Flat Multi-modal Interaction Transformer for Named Entity Recognition** [[paper](https://arxiv.org/abs/2208.11039)]
+        * 📌 1st interpolating FLAT with MNER
+        * 🚀  SOTA on Twitter15 with Bert_base_uncased but code is unavailable
     * (NAACL Findings 2022) **Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction** [[paper](https://aclanthology.org/2022.findings-naacl.121/)] [[code](https://github.com/zjunlp/HVPNeT)]
-    
+        * 📌 code using refined Twitter15 dataset
     * (WSDM 2022) **MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition** [[paper](https://arxiv.org/abs/2010.05379)] [[code](https://github.com/xubodhu/MAF)]
-    
     * (SIGIR 2022) **Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion** [[paper](https://arxiv.org/abs/2205.02357)] [[paper](https://github.com/zjunlp/MKGformer)]
-    
+        * 📌 1st fully Transformer structure
+        * 🚀 SOTA on Twitter17 using Bert_base_uncased but only implement on Twitter17 
     * (NAACL 2022) **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition** [[paper](https://arxiv.org/abs/2112.06482)] [[code](https://github.com/Alibaba-NLP/KB-NER)]
-    
+        * 📌  Roberta_large as backbone provides powerful improvements
+        * 📌  Using OCR ect without directly using images
     * (MM 2022) **Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548427)]
-    
+        * 📌  1st MRC based framework for MNER
     * (SIGIR 2022) **Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548228)]
-    
+        * 📌 Trustworthy performance by reimplementation
     * (ICME 2022) **CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention** [[paper](https://ieeexplore.ieee.org/document/9859972)]
-    
+        * 🚀  SOTA on Twitter15 and Twitter17 with Roberta_large
+        * 📌  Require 8 V100 GPU
     * (DSAA 2022) **PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24)]
+        * 🚀  SOTA on Twitter15 and Twitter17 with Roberta_large
+        * 📌  Require 8 V100 GPU
 
   
