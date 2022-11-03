@@ -13,9 +13,9 @@ A collection of resources on multimodal named entity recognition.
   * - [ ] [👑 Dataset](#head-dataset)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
-  * - [ ] [2022](#head-2022)
-  * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
+  * - [ ] [2021](#head-2021)
+  * - [ ] [2022](#head-2022)
 
 * - [ ] [4. Courses](#head4)
 
