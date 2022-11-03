@@ -9,9 +9,7 @@ A collection of resources on multimodal named entity recognition.
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
-  * - [ ] [Survey](#head-Survey)
   * - [ ] [👑 Dataset](#head-dataset)
-  * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [2020](#head-2020)
