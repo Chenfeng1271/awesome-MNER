@@ -11,7 +11,6 @@ A collection of resources on multimodal named entity recognition.
 * - [ ] [2. Topic Order](#head2)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [👑 Dataset](#head-dataset)
-  * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [2022](#head-2022)
@@ -62,9 +61,9 @@ A collection of resources on multimodal named entity recognition.
     
     * (SIGIR 2022) **Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion** [[paper](https://arxiv.org/abs/2205.02357)] [[paper](https://github.com/zjunlp/MKGformer)]
     
-    *(NAACL 2022) **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition** [[paper](https://arxiv.org/abs/2112.06482)] [[code](https://github.com/Alibaba-NLP/KB-NER)]
+    * (NAACL 2022) **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition** [[paper](https://arxiv.org/abs/2112.06482)] [[code](https://github.com/Alibaba-NLP/KB-NER)]
     
-    *(MM 2022) **Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548427)]
+    * (MM 2022) **Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548427)]
     
     * (SIGIR 2022) **Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548228)]
     
