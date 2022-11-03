@@ -57,12 +57,19 @@ A collection of resources on multimodal named entity recognition.
 
     * (CVPR 2022) **Flat Multi-modal Interaction Transformer for Named Entity Recognition** [[paper](https://arxiv.org/abs/2208.11039)]
     * (NAACL Findings 2022) **Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction** [[paper](https://aclanthology.org/2022.findings-naacl.121/)] [[code](https://github.com/zjunlp/HVPNeT)]
+    
     * (WSDM 2022) **MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition** [[paper](https://arxiv.org/abs/2010.05379)] [[code](https://github.com/xubodhu/MAF)]
+    
     * (SIGIR 2022) **Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion** [[paper](https://arxiv.org/abs/2205.02357)] [[paper](https://github.com/zjunlp/MKGformer)]
+    
     *(NAACL 2022) **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition** [[paper](https://arxiv.org/abs/2112.06482)] [[code](https://github.com/Alibaba-NLP/KB-NER)]
+    
     *(MM 2022) **Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548427)]
+    
     * (SIGIR 2022) **Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548228)]
+    
     * (ICME 2022) **CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention** [[paper](https://ieeexplore.ieee.org/document/9859972)]
+    
     * (DSAA 2022) **PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24)]
 
   
