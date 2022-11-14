@@ -76,5 +76,7 @@ A collection of resources on multimodal named entity recognition.
         * 🚀  SOTA on Twitter15 and Twitter17 with Roberta_large
         * 📌  Require 8 V100 GPU
         * 🌱 Prompt-based
+        
+    * （arxiv 2022） **Multi-Granularity Cross-Modality Representation Learning for Named Entity Recognition on Social Media** [[paper](https://arxiv.org/abs/2210.14163)] [[code](https://github.com/LiuPeiP-CS/IIE4MNER)]
 
   
