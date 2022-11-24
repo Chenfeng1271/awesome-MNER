@@ -78,5 +78,6 @@ A collection of resources on multimodal named entity recognition.
         * 🌱 Prompt-based
         
     * （arxiv 2022） **Multi-Granularity Cross-Modality Representation Learning for Named Entity Recognition on Social Media** [[paper](https://arxiv.org/abs/2210.14163)] [[code](https://github.com/LiuPeiP-CS/IIE4MNER)]
+    * (arxiv) **Multi-Granularity Contrastive Knowledge Distillation for Multimodal Named Entity Recognition**
 
   
