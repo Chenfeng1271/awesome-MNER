@@ -53,7 +53,7 @@ A collection of resources on multimodal named entity recognition.
 
 * <span id="head-2022"> **2022**  </span>
 
-    * (CVPR 2022) **Flat Multi-modal Interaction Transformer for Named Entity Recognition** [[paper](https://arxiv.org/abs/2208.11039)]
+    * (COLING 2022) **Flat Multi-modal Interaction Transformer for Named Entity Recognition** [[paper](https://arxiv.org/abs/2208.11039)]
         * 📌 1st interpolating FLAT with MNER
         * 🚀  SOTA on Twitter15 with Bert_base_uncased but code is unavailable
     * (NAACL Findings 2022) **Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction** [[paper](https://aclanthology.org/2022.findings-naacl.121/)] [[code](https://github.com/zjunlp/HVPNeT)]
