@@ -104,6 +104,9 @@ A collection of resources on multimodal named entity recognition.
     4 simple loss like contractive loss brings 2% improvement. So I think the model heavily focuses on text. 
     
     5 Applying the same code in different environments even in different GPUs has results with large variance...
+    
+    6 It has two mainstreams depending on image+text or caption+text as input. DAMO-series work mainly focus on the latter one, which is proved to be more extandable and SOTA than others.
+    
 ## <span id="head6"> *Contact Me* </span> 
 
 * Feel free to contact me by email (chenfeng1271@gmail.com)
