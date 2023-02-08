@@ -17,8 +17,9 @@ A collection of resources on multimodal named entity recognition.
   * - [ ] [2022](#head-2022)
 
 * - [ ] [4. Courses](#head4)
+* - [ ] [5. Thinking MNER](#head5)
 
-* [*Contact Me*](#head5)
+* [*Contact Me*](#head6)
 
 ## <span id="head1"> *1.Description* </span>
 
@@ -84,5 +85,21 @@ A collection of resources on multimodal named entity recognition.
         * 🚀  retrieve augmentation in MNER
     * (arxiv 2022) **MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding** [[paper]](https://arxiv.org/pdf/2211.14739.pdf)
 
+## <span id="head4"> *4. Course* </span>
 
-  
+
+## <span id="head5"> *5. Thinking MNER* </span>  
+ * MNER is a hard task since it needs multimodal understanding in social media domain. However, existing methods simplify it to extacting helpful viusal clue to assist NER, with a simple showcase. In twitter datasets, the image-text pair always has no or vague relationship, which needs extra information or supervision for model to understand. Therefore, I believe that is why MNER-QG, MoRe, R-GCN and PromptMNER work. However, existing works are still nowhere near logical understanding, since they all introduce out-sample knowledge.
+
+ * Tricky task: When I developed my work (SOTA in two datasets but in submission), I found 
+
+    1 only tuning task head of BERT (freeze Bert and ViT) can achieve comparable results (0.2-0.5% drop). So I believe we can directly introduce prompt eniggering for text.
+
+    2 large language model matters more than fancy innovation
+
+    3 using a empty image to replace all valid images during test only drop 2%
+
+    4 simple loss like contractive loss brings 2% improvement. So I think the model heavily focuses on text. 
+## <span id="head6"> *Contact Me* </span> 
+
+* Feel free to contact me by email (chenfeng1271@gmail.com)
