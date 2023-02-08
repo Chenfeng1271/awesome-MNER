@@ -80,8 +80,9 @@ A collection of resources on multimodal named entity recognition.
     * （arxiv 2022） **Multi-Granularity Cross-Modality Representation Learning for Named Entity Recognition on Social Media** [[paper](https://arxiv.org/abs/2210.14163)] [[code](https://github.com/LiuPeiP-CS/IIE4MNER)]
     * (arxiv 2021) **Multi-Granularity Contrastive Knowledge Distillation for Multimodal Named Entity Recognition**
       * submitted to ACL2021 but not accepted
-    * (EMNLP 2023) **Named Entity and Relation Extraction with Multi-Modal Retrieval**
+    * (EMNLP 2023) **Named Entity and Relation Extraction with Multi-Modal Retrieval** [[paper]](https://arxiv.org/pdf/2212.01612.pdf)  [[code in construction]](https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe)
         * 🚀  retrieve augmentation in MNER
+    * (arxiv 2022) **MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding** [[paper]](https://arxiv.org/pdf/2211.14739.pdf)
 
 
   
