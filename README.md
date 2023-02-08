@@ -83,6 +83,8 @@ A collection of resources on multimodal named entity recognition.
       * submitted to ACL2021 but not accepted
     * (EMNLP 2023) **Named Entity and Relation Extraction with Multi-Modal Retrieval** [[paper]](https://arxiv.org/pdf/2212.01612.pdf)  [[code in construction]](https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe)
         * 🚀  retrieve augmentation in MNER
+        ![image](https://user-images.githubusercontent.com/24824628/217494413-c99d8377-49ac-4a74-916f-4f84ea0875b1.png)
+
     * (arxiv 2022) **MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding** [[paper]](https://arxiv.org/pdf/2211.14739.pdf)
 
 ## <span id="head4"> *4. Course* </span>
