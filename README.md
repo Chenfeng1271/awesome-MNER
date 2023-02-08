@@ -89,7 +89,7 @@ A collection of resources on multimodal named entity recognition.
 
 
 ## <span id="head5"> *5. Thinking MNER* </span>  
- * MNER is a hard task since it needs multimodal understanding in social media domain. However, existing methods simplify it to extacting helpful viusal clue to assist NER, with a simple showcase. In twitter datasets, the image-text pair always has no or vague relationship, which needs extra information or supervision for model to understand. Therefore, I believe that is why MNER-QG, MoRe, R-GCN and PromptMNER work. However, existing works are still nowhere near logical understanding, since they all introduce out-sample knowledge.
+ * MNER is a hard task since it needs multimodal understanding in social media domain. However, existing methods simplify it to extacting helpful viusal clue to assist NER, with a simple showcase. In twitter datasets, the image-text pair always has no or vague relationship, which needs extra information or supervision for model to understand. Therefore, I believe that is why MNER-QG, MoRe, R-GCN and PromptMNER work. However, existing works are still nowhere near logical understanding, since they all introduce out-sample knowledge. Now I am trying to introduce knowledge graph in MNER to provide in-sample context.
 
  * Tricky task: When I developed my work (SOTA in two datasets but in submission), I found 
 
