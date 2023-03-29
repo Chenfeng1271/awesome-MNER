@@ -108,7 +108,7 @@ A collection of resources on multimodal named entity recognition.
     
     5 Applying the same code in different environments even in different GPUs has results with large variance...
     
-    6 It has two mainstreams depending on image+text or caption+text as input. DAMO-series works mainly focus on the latter one, which is proved to be more extandable and SOTA than others, but need at least 8 GPUs.
+    6 It has two mainstreams depending on image+text or caption+text as input. DAMO-series works mainly focus on the latter one, which is proved to be more extandable and SOTA than others.
     
 ## <span id="head6"> *Contact Me* </span> 
 
