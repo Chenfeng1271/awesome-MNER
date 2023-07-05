@@ -45,7 +45,7 @@ A collection of resources on multimodal named entity recognition.
 ## <span id="head3"> *3. Chronological Order* </span>
 * <span id="head-2020"> **2020**  </span>
     * (ACL 2020) **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer** [[paper](https://aclanthology.org/2020.acl-main.306.pdf)]
-    * (ACL 2020) **RIVA: A Pre-trained Tweet Multimodal Model Based on Text-image Relation for Multimodal NER** [[paper](https://aclanthology.org/2020.coling-main.168/)]
+    * (COLING 2020) **RIVA: A Pre-trained Tweet Multimodal Model Based on Text-image Relation for Multimodal NER** [[paper](https://aclanthology.org/2020.coling-main.168/)]
 
 * <span id="head-2021"> **2021**  </span>
 
