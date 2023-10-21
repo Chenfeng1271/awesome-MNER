@@ -89,6 +89,9 @@ A collection of resources on multimodal named entity recognition.
     * (EMNLP 2023) **Named Entity and Relation Extraction with Multi-Modal Retrieval** [[paper]](https://arxiv.org/pdf/2212.01612.pdf)  [[code in construction]](https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe)
         * 🚀  retrieve augmentation in MNER
         ![image](https://user-images.githubusercontent.com/24824628/217494413-c99d8377-49ac-4a74-916f-4f84ea0875b1.png)
+    * (MM 2023) **Learning Implicit Entity-object Relations by Bidirectional Generative Alignment for Multimodal NER** [[paper]](https://arxiv.org/abs/2308.02570)  (https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe)
+        * 🚀  generative alignment
+        * 🌱  free from image during inference
 
 ## <span id="head4"> *4. Course* </span>
 
