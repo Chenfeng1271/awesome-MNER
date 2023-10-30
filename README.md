@@ -6,6 +6,8 @@ A collection of resources on multimodal named entity recognition.
  
 </div>
 
+Sorry, this repo will be not updated, since I already changed my research topic.
+
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
